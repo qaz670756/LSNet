@@ -1,0 +1,227 @@
+GPU AVAILABLE? True
+LOADING Model
+STARTING training
+SET model mode to train!
+EPOCH 0 TRAIN METRICS{'cd_losses': 0.5288753096076796, 'cd_corrects': 91.83941463772341, 'cd_precisions': 0.6881699495079406, 'cd_recalls': 0.48804950964290406, 'cd_f1scores': 0.5589185433910165, 'learning_rate': 0.0010000000000000005}
+EPOCH 0 VALIDATION METRICS{'cd_losses': 0.4056066782474518, 'cd_corrects': 94.2293366394043, 'cd_precisions': 0.763838124678746, 'cd_recalls': 0.6101799403561327, 'cd_f1scores': 0.6660308704520909, 'learning_rate': 0.0010000000000000002}
+updata the model
+SET model mode to train!
+EPOCH 1 TRAIN METRICS{'cd_losses': 0.3949557191087045, 'cd_corrects': 94.13630545453773, 'cd_precisions': 0.77463610750157, 'cd_recalls': 0.627903582086038, 'cd_f1scores': 0.6867871011143525, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 2 TRAIN METRICS{'cd_losses': 0.34418431919613046, 'cd_corrects': 94.99118482008826, 'cd_precisions': 0.8031329120691058, 'cd_recalls': 0.681526790108827, 'cd_f1scores': 0.7331398203571531, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 3 TRAIN METRICS{'cd_losses': 0.30431581976459465, 'cd_corrects': 95.59254277181282, 'cd_precisions': 0.8283296271522003, 'cd_recalls': 0.7196183463296248, 'cd_f1scores': 0.7665990154298511, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 4 TRAIN METRICS{'cd_losses': 0.2785383682939217, 'cd_corrects': 95.9462856411648, 'cd_precisions': 0.8438379017610821, 'cd_recalls': 0.7453033252076441, 'cd_f1scores': 0.7885546993176522, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 5 TRAIN METRICS{'cd_losses': 0.2536446229159403, 'cd_corrects': 96.34567601960912, 'cd_precisions': 0.8584029453951098, 'cd_recalls': 0.7685627448255307, 'cd_f1scores': 0.8085120634266642, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 6 TRAIN METRICS{'cd_losses': 0.2369444198030934, 'cd_corrects': 96.57846072995119, 'cd_precisions': 0.8662192277493062, 'cd_recalls': 0.7852623449875207, 'cd_f1scores': 0.8215251589441138, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 7 TRAIN METRICS{'cd_losses': 0.21743628873134688, 'cd_corrects': 96.8662397078187, 'cd_precisions': 0.8764660963227815, 'cd_recalls': 0.802741597397985, 'cd_f1scores': 0.8363263350048205, 'learning_rate': 0.0010000000000000005}
+SET model mode to train!
+EPOCH 8 TRAIN METRICS{'cd_losses': 0.19075235820931496, 'cd_corrects': 97.24032565329573, 'cd_precisions': 0.894614638097052, 'cd_recalls': 0.8277142443280464, 'cd_f1scores': 0.8586955566843113, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 9 TRAIN METRICS{'cd_losses': 0.1803248110193786, 'cd_corrects': 97.40136806570369, 'cd_precisions': 0.897525751359994, 'cd_recalls': 0.8366136011101065, 'cd_f1scores': 0.8650703728115564, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 10 TRAIN METRICS{'cd_losses': 0.17315428603967603, 'cd_corrects': 97.49206931756841, 'cd_precisions': 0.9015360975793717, 'cd_recalls': 0.8432877985120455, 'cd_f1scores': 0.8704883443602769, 'learning_rate': 0.0005000000000000002}
+EPOCH 10 VALIDATION METRICS{'cd_losses': 0.16850060549378396, 'cd_corrects': 97.59532205200195, 'cd_precisions': 0.8973326984448841, 'cd_recalls': 0.8486735704446093, 'cd_f1scores': 0.8710175026137786, 'learning_rate': 0.0005000000000000001}
+updata the model
+SET model mode to train!
+EPOCH 11 TRAIN METRICS{'cd_losses': 0.16603421898697207, 'cd_corrects': 97.58067248593703, 'cd_precisions': 0.9051158457220698, 'cd_recalls': 0.850545604187746, 'cd_f1scores': 0.8760735141609967, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 12 TRAIN METRICS{'cd_losses': 0.16021776367738236, 'cd_corrects': 97.68217978717612, 'cd_precisions': 0.9063120281972065, 'cd_recalls': 0.855558909419696, 'cd_f1scores': 0.8793653293534743, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 13 TRAIN METRICS{'cd_losses': 0.15353310639731033, 'cd_corrects': 97.76204112393678, 'cd_precisions': 0.910175813959383, 'cd_recalls': 0.861800363224698, 'cd_f1scores': 0.8845881710907288, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 14 TRAIN METRICS{'cd_losses': 0.14747836593565322, 'cd_corrects': 97.84077598150971, 'cd_precisions': 0.9139935714270194, 'cd_recalls': 0.8680528348573721, 'cd_f1scores': 0.8897310493145293, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 15 TRAIN METRICS{'cd_losses': 0.14443315451236652, 'cd_corrects': 97.88839525913448, 'cd_precisions': 0.9144223541373847, 'cd_recalls': 0.8706237519598748, 'cd_f1scores': 0.8912723808589684, 'learning_rate': 0.0005000000000000002}
+SET model mode to train!
+EPOCH 16 TRAIN METRICS{'cd_losses': 0.13314063250750519, 'cd_corrects': 98.04059958515121, 'cd_precisions': 0.9190858099323411, 'cd_recalls': 0.8805112944802337, 'cd_f1scores': 0.8989267932251612, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 17 TRAIN METRICS{'cd_losses': 0.12881611489492067, 'cd_corrects': 98.09663757031484, 'cd_precisions': 0.9228322066353336, 'cd_recalls': 0.8846508232876261, 'cd_f1scores': 0.9029149161797907, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 18 TRAIN METRICS{'cd_losses': 0.12473849277291224, 'cd_corrects': 98.14120106502689, 'cd_precisions': 0.9246331445468999, 'cd_recalls': 0.8885822209741636, 'cd_f1scores': 0.9058391362727704, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 19 TRAIN METRICS{'cd_losses': 0.12491908374217918, 'cd_corrects': 98.15634194609645, 'cd_precisions': 0.923886551392599, 'cd_recalls': 0.88866678525734, 'cd_f1scores': 0.9054816594764168, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 20 TRAIN METRICS{'cd_losses': 0.12312666893594985, 'cd_corrects': 98.18995956494082, 'cd_precisions': 0.9251456446508537, 'cd_recalls': 0.8902950661336061, 'cd_f1scores': 0.9068888839943257, 'learning_rate': 0.0002500000000000001}
+EPOCH 20 VALIDATION METRICS{'cd_losses': 0.1220285148769617, 'cd_corrects': 98.21194189453125, 'cd_precisions': 0.9202943696978098, 'cd_recalls': 0.8911614784814388, 'cd_f1scores': 0.9049877252303701, 'learning_rate': 0.00025000000000000006}
+updata the model
+SET model mode to train!
+EPOCH 21 TRAIN METRICS{'cd_losses': 0.12027744063102513, 'cd_corrects': 98.21383113540905, 'cd_precisions': 0.9268181063377146, 'cd_recalls': 0.8934421131836686, 'cd_f1scores': 0.9094415965077772, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 22 TRAIN METRICS{'cd_losses': 0.11676278818461248, 'cd_corrects': 98.25946953313814, 'cd_precisions': 0.9276629291157177, 'cd_recalls': 0.8955310223601679, 'cd_f1scores': 0.9108656651924926, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 23 TRAIN METRICS{'cd_losses': 0.11736275439711212, 'cd_corrects': 98.27545459664982, 'cd_precisions': 0.9266821853405877, 'cd_recalls': 0.8959917388011203, 'cd_f1scores': 0.9106653505884867, 'learning_rate': 0.0002500000000000001}
+SET model mode to train!
+EPOCH 24 TRAIN METRICS{'cd_losses': 0.11297716852054178, 'cd_corrects': 98.31765322605197, 'cd_precisions': 0.9290077742359055, 'cd_recalls': 0.8998781751489638, 'cd_f1scores': 0.9138719727947422, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 25 TRAIN METRICS{'cd_losses': 0.10893207293995422, 'cd_corrects': 98.3642212023838, 'cd_precisions': 0.9320131427654144, 'cd_recalls': 0.904236415462648, 'cd_f1scores': 0.9176002632260215, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 26 TRAIN METRICS{'cd_losses': 0.10783925200019666, 'cd_corrects': 98.3690185729834, 'cd_precisions': 0.9324281315689059, 'cd_recalls': 0.9043472707080209, 'cd_f1scores': 0.917762448865787, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 27 TRAIN METRICS{'cd_losses': 0.10791807538188762, 'cd_corrects': 98.38495853707659, 'cd_precisions': 0.9321526809722022, 'cd_recalls': 0.9047459545089355, 'cd_f1scores': 0.9179155601416784, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 28 TRAIN METRICS{'cd_losses': 0.10540833667688947, 'cd_corrects': 98.40370967691179, 'cd_precisions': 0.9336569531094425, 'cd_recalls': 0.9075523212392, 'cd_f1scores': 0.9201267865358242, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 29 TRAIN METRICS{'cd_losses': 0.10698589308709978, 'cd_corrects': 98.40714246534901, 'cd_precisions': 0.9320375322530223, 'cd_recalls': 0.9053555704272401, 'cd_f1scores': 0.9182164634313625, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 30 TRAIN METRICS{'cd_losses': 0.10440681311491724, 'cd_corrects': 98.42911327371209, 'cd_precisions': 0.9342851006647864, 'cd_recalls': 0.9085074161321572, 'cd_f1scores': 0.9209604284742746, 'learning_rate': 0.00012500000000000006}
+EPOCH 30 VALIDATION METRICS{'cd_losses': 0.10555157819390297, 'cd_corrects': 98.42440167236329, 'cd_precisions': 0.9243940724962554, 'cd_recalls': 0.9113987989038417, 'cd_f1scores': 0.9175916266923259, 'learning_rate': 0.00012500000000000003}
+updata the model
+SET model mode to train!
+EPOCH 31 TRAIN METRICS{'cd_losses': 0.1028882270317069, 'cd_corrects': 98.44307374839875, 'cd_precisions': 0.9346027482616293, 'cd_recalls': 0.909361782435788, 'cd_f1scores': 0.921565070962552, 'learning_rate': 0.00012500000000000006}
+SET model mode to train!
+EPOCH 32 TRAIN METRICS{'cd_losses': 0.10152461060392057, 'cd_corrects': 98.46409721283032, 'cd_precisions': 0.9345107740471922, 'cd_recalls': 0.909684274533006, 'cd_f1scores': 0.9216990933790928, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 33 TRAIN METRICS{'cd_losses': 0.10175105586773057, 'cd_corrects': 98.46755753661232, 'cd_precisions': 0.9340566710055792, 'cd_recalls': 0.9104723288191406, 'cd_f1scores': 0.9218560447956902, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 34 TRAIN METRICS{'cd_losses': 0.09963442073415796, 'cd_corrects': 98.48510088108712, 'cd_precisions': 0.9360015153238409, 'cd_recalls': 0.9121340065015002, 'cd_f1scores': 0.9236767689371918, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 35 TRAIN METRICS{'cd_losses': 0.10010297801926267, 'cd_corrects': 98.48823415632728, 'cd_precisions': 0.9354297721535174, 'cd_recalls': 0.9114200095998125, 'cd_f1scores': 0.9229990760869176, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 36 TRAIN METRICS{'cd_losses': 0.09923360332828775, 'cd_corrects': 98.5009590899058, 'cd_precisions': 0.935792493962415, 'cd_recalls': 0.9123650116219801, 'cd_f1scores': 0.9237172852397162, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 37 TRAIN METRICS{'cd_losses': 0.09920264109388459, 'cd_corrects': 98.50102708665587, 'cd_precisions': 0.9359347285500444, 'cd_recalls': 0.9132392917652425, 'cd_f1scores': 0.9242046000143488, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 38 TRAIN METRICS{'cd_losses': 0.09849703109128584, 'cd_corrects': 98.50923840090525, 'cd_precisions': 0.9360332713805457, 'cd_recalls': 0.9130063640726126, 'cd_f1scores': 0.9241543542660947, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 39 TRAIN METRICS{'cd_losses': 0.09807152354227697, 'cd_corrects': 98.51932825687692, 'cd_precisions': 0.9358555868165037, 'cd_recalls': 0.9130041635940492, 'cd_f1scores': 0.9240469968436026, 'learning_rate': 6.250000000000003e-05}
+SET model mode to train!
+EPOCH 40 TRAIN METRICS{'cd_losses': 0.09726428126188205, 'cd_corrects': 98.5209743490608, 'cd_precisions': 0.936726907624004, 'cd_recalls': 0.9142785488866657, 'cd_f1scores': 0.9251264583930141, 'learning_rate': 3.1250000000000014e-05}
+EPOCH 40 VALIDATION METRICS{'cd_losses': 0.10005865229666233, 'cd_corrects': 98.49956509399414, 'cd_precisions': 0.9273252507970169, 'cd_recalls': 0.9164287671623662, 'cd_f1scores': 0.9216416465932257, 'learning_rate': 3.125000000000001e-05}
+updata the model
+SET model mode to train!
+EPOCH 41 TRAIN METRICS{'cd_losses': 0.09589568954363144, 'cd_corrects': 98.53475768274541, 'cd_precisions': 0.938115241051911, 'cd_recalls': 0.9159815633540598, 'cd_f1scores': 0.9266874014285931, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 42 TRAIN METRICS{'cd_losses': 0.09624765175495216, 'cd_corrects': 98.54124834897706, 'cd_precisions': 0.9378134561270384, 'cd_recalls': 0.9152637668800631, 'cd_f1scores': 0.9261816147556423, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 43 TRAIN METRICS{'cd_losses': 0.09590762640110595, 'cd_corrects': 98.54131452528406, 'cd_precisions': 0.9387412174225569, 'cd_recalls': 0.916775459720357, 'cd_f1scores': 0.9274299860352682, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 44 TRAIN METRICS{'cd_losses': 0.09525794506841283, 'cd_corrects': 98.55016778813277, 'cd_precisions': 0.9379997711007567, 'cd_recalls': 0.9168329014902151, 'cd_f1scores': 0.9271073429750235, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 45 TRAIN METRICS{'cd_losses': 0.09630996385942117, 'cd_corrects': 98.54620577219865, 'cd_precisions': 0.9365327091258773, 'cd_recalls': 0.9149267995665576, 'cd_f1scores': 0.9253893470642273, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 46 TRAIN METRICS{'cd_losses': 0.09520269215008695, 'cd_corrects': 98.55030173249096, 'cd_precisions': 0.9382833046191973, 'cd_recalls': 0.9167160930685888, 'cd_f1scores': 0.9271637545370836, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 47 TRAIN METRICS{'cd_losses': 0.09473819305508328, 'cd_corrects': 98.54887420324971, 'cd_precisions': 0.9388248980013745, 'cd_recalls': 0.9182726361984678, 'cd_f1scores': 0.9282475621882017, 'learning_rate': 3.1250000000000014e-05}
+SET model mode to train!
+EPOCH 48 TRAIN METRICS{'cd_losses': 0.09513970041464416, 'cd_corrects': 98.55884262011777, 'cd_precisions': 0.938167230473822, 'cd_recalls': 0.9158263037634201, 'cd_f1scores': 0.9266472625623673, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 49 TRAIN METRICS{'cd_losses': 0.09431005809768785, 'cd_corrects': 98.56080846992327, 'cd_precisions': 0.9381441750271349, 'cd_recalls': 0.9172766627082817, 'cd_f1scores': 0.9273890693900734, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 50 TRAIN METRICS{'cd_losses': 0.09396524610538348, 'cd_corrects': 98.56761914077137, 'cd_precisions': 0.9387374579896476, 'cd_recalls': 0.916893490050381, 'cd_f1scores': 0.9274623436128306, 'learning_rate': 1.5625000000000007e-05}
+EPOCH 50 VALIDATION METRICS{'cd_losses': 0.09697723084688187, 'cd_corrects': 98.54434555053712, 'cd_precisions': 0.9323440367942736, 'cd_recalls': 0.9156682338291371, 'cd_f1scores': 0.9237160583490269, 'learning_rate': 1.5625000000000004e-05}
+updata the model
+SET model mode to train!
+EPOCH 51 TRAIN METRICS{'cd_losses': 0.09573721976803361, 'cd_corrects': 98.56612971646608, 'cd_precisions': 0.9371416304946587, 'cd_recalls': 0.9163225225926549, 'cd_f1scores': 0.9263898770136765, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 52 TRAIN METRICS{'cd_losses': 0.0937238786195358, 'cd_corrects': 98.57135474481743, 'cd_precisions': 0.9392623543246781, 'cd_recalls': 0.9180048921564281, 'cd_f1scores': 0.9283196804603239, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 53 TRAIN METRICS{'cd_losses': 0.09396434918814282, 'cd_corrects': 98.56803926975607, 'cd_precisions': 0.9383947425092798, 'cd_recalls': 0.9175739361345633, 'cd_f1scores': 0.9276670242890962, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 54 TRAIN METRICS{'cd_losses': 0.09364865173538811, 'cd_corrects': 98.56479592632047, 'cd_precisions': 0.9390055048039888, 'cd_recalls': 0.9185287857371099, 'cd_f1scores': 0.9284721635470247, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 55 TRAIN METRICS{'cd_losses': 0.09423445736681171, 'cd_corrects': 98.56512381647417, 'cd_precisions': 0.938703647343791, 'cd_recalls': 0.9178648089910404, 'cd_f1scores': 0.9279239940507757, 'learning_rate': 1.5625000000000007e-05}
+SET model mode to train!
+EPOCH 56 TRAIN METRICS{'cd_losses': 0.09394136746134832, 'cd_corrects': 98.57475102376594, 'cd_precisions': 0.9389067311615994, 'cd_recalls': 0.9179275445252786, 'cd_f1scores': 0.9281102118655831, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 57 TRAIN METRICS{'cd_losses': 0.09296411322318107, 'cd_corrects': 98.58434588388859, 'cd_precisions': 0.9391828313768927, 'cd_recalls': 0.9179709211333134, 'cd_f1scores': 0.9282576328557802, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 58 TRAIN METRICS{'cd_losses': 0.09343758596183299, 'cd_corrects': 98.57182427275953, 'cd_precisions': 0.9390439516942347, 'cd_recalls': 0.9185683703164955, 'cd_f1scores': 0.9285139618758063, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 59 TRAIN METRICS{'cd_losses': 0.09385654134608859, 'cd_corrects': 98.57646662211246, 'cd_precisions': 0.9389066018367963, 'cd_recalls': 0.9178431027398425, 'cd_f1scores': 0.9280600515285413, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 60 TRAIN METRICS{'cd_losses': 0.09553218997425313, 'cd_corrects': 98.56855011901123, 'cd_precisions': 0.9370790810989603, 'cd_recalls': 0.916053830754763, 'cd_f1scores': 0.9262217684480053, 'learning_rate': 7.812500000000004e-06}
+EPOCH 60 VALIDATION METRICS{'cd_losses': 0.09669873064756393, 'cd_corrects': 98.54545501708985, 'cd_precisions': 0.9302957356948958, 'cd_recalls': 0.9183892498353267, 'cd_f1scores': 0.924103244250688, 'learning_rate': 7.812500000000002e-06}
+updata the model
+SET model mode to train!
+EPOCH 61 TRAIN METRICS{'cd_losses': 0.09321780165554665, 'cd_corrects': 98.57871872972814, 'cd_precisions': 0.9390259459412128, 'cd_recalls': 0.9183125707198723, 'cd_f1scores': 0.9283710886262552, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 62 TRAIN METRICS{'cd_losses': 0.09340579710382638, 'cd_corrects': 98.57989780965755, 'cd_precisions': 0.9390693304643344, 'cd_recalls': 0.9190205323879986, 'cd_f1scores': 0.9287455903236689, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 63 TRAIN METRICS{'cd_losses': 0.09310927162308702, 'cd_corrects': 98.5815074380925, 'cd_precisions': 0.9391651294252186, 'cd_recalls': 0.9189258154524276, 'cd_f1scores': 0.928744684229816, 'learning_rate': 7.812500000000004e-06}
+SET model mode to train!
+EPOCH 64 TRAIN METRICS{'cd_losses': 0.09312176508761996, 'cd_corrects': 98.58363751198748, 'cd_precisions': 0.938016434282958, 'cd_recalls': 0.9182362285421545, 'cd_f1scores': 0.9278411670747019, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 65 TRAIN METRICS{'cd_losses': 0.09299728077137284, 'cd_corrects': 98.57944419915728, 'cd_precisions': 0.9389680500288755, 'cd_recalls': 0.9182905289735951, 'cd_f1scores': 0.928326639869432, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 66 TRAIN METRICS{'cd_losses': 0.09389641010861317, 'cd_corrects': 98.57501096290936, 'cd_precisions': 0.9384518029657979, 'cd_recalls': 0.9178661470489202, 'cd_f1scores': 0.9278833610733265, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 67 TRAIN METRICS{'cd_losses': 0.09378472172009716, 'cd_corrects': 98.58499835263625, 'cd_precisions': 0.937795429780551, 'cd_recalls': 0.9174053041477427, 'cd_f1scores': 0.9273100969510932, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 68 TRAIN METRICS{'cd_losses': 0.093242916865922, 'cd_corrects': 98.58915357338152, 'cd_precisions': 0.9388952450899685, 'cd_recalls': 0.9187712409718798, 'cd_f1scores': 0.928566382774924, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 69 TRAIN METRICS{'cd_losses': 0.09392611738249695, 'cd_corrects': 98.57802180191882, 'cd_precisions': 0.9389230600946306, 'cd_recalls': 0.9177256421230704, 'cd_f1scores': 0.928005017569142, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 70 TRAIN METRICS{'cd_losses': 0.09392984639361894, 'cd_corrects': 98.58514443633082, 'cd_precisions': 0.9379073181136943, 'cd_recalls': 0.9178231616927958, 'cd_f1scores': 0.9275494873121134, 'learning_rate': 3.906250000000002e-06}
+EPOCH 70 VALIDATION METRICS{'cd_losses': 0.095860671967268, 'cd_corrects': 98.55894177246094, 'cd_precisions': 0.9332058907245825, 'cd_recalls': 0.9166854816112228, 'cd_f1scores': 0.9246729938489672, 'learning_rate': 3.906250000000001e-06}
+updata the model
+SET model mode to train!
+EPOCH 71 TRAIN METRICS{'cd_losses': 0.09226612189262033, 'cd_corrects': 98.58199559127112, 'cd_precisions': 0.9404663665046176, 'cd_recalls': 0.9196705114409164, 'cd_f1scores': 0.9297637516813737, 'learning_rate': 3.906250000000002e-06}
+SET model mode to train!
+EPOCH 72 TRAIN METRICS{'cd_losses': 0.09268807336839913, 'cd_corrects': 98.58421718130866, 'cd_precisions': 0.9393978073279102, 'cd_recalls': 0.9188718129979211, 'cd_f1scores': 0.9288461844725037, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 73 TRAIN METRICS{'cd_losses': 0.09372232270112141, 'cd_corrects': 98.58400389673612, 'cd_precisions': 0.9383252048801519, 'cd_recalls': 0.9180829667089727, 'cd_f1scores': 0.9278823287339649, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 74 TRAIN METRICS{'cd_losses': 0.09365871182377104, 'cd_corrects': 98.57789710614321, 'cd_precisions': 0.939253172664763, 'cd_recalls': 0.9190261173615076, 'cd_f1scores': 0.9288340509074824, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 75 TRAIN METRICS{'cd_losses': 0.09282487917834406, 'cd_corrects': 98.58926003728267, 'cd_precisions': 0.9382401557505364, 'cd_recalls': 0.9184604137076563, 'cd_f1scores': 0.9280802221197149, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 76 TRAIN METRICS{'cd_losses': 0.09337136757334502, 'cd_corrects': 98.59097938629077, 'cd_precisions': 0.9391173459951236, 'cd_recalls': 0.9178659619159247, 'cd_f1scores': 0.9281625485171341, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 77 TRAIN METRICS{'cd_losses': 0.09350867802835554, 'cd_corrects': 98.58748479426907, 'cd_precisions': 0.938121712911689, 'cd_recalls': 0.9174199798795665, 'cd_f1scores': 0.9274144493731161, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 78 TRAIN METRICS{'cd_losses': 0.09283712165255983, 'cd_corrects': 98.58375767952532, 'cd_precisions': 0.9384133285768789, 'cd_recalls': 0.9180898981457941, 'cd_f1scores': 0.9279508402000022, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 79 TRAIN METRICS{'cd_losses': 0.09292108615596803, 'cd_corrects': 98.58725661682568, 'cd_precisions': 0.9391903054085367, 'cd_recalls': 0.9189637852826595, 'cd_f1scores': 0.9287913176518782, 'learning_rate': 1.953125000000001e-06}
+SET model mode to train!
+EPOCH 80 TRAIN METRICS{'cd_losses': 0.09324386637273738, 'cd_corrects': 98.57784356316216, 'cd_precisions': 0.9389041117531516, 'cd_recalls': 0.9190572569944692, 'cd_f1scores': 0.9286797065299115, 'learning_rate': 9.765625000000004e-07}
+EPOCH 80 VALIDATION METRICS{'cd_losses': 0.09596447357535362, 'cd_corrects': 98.55805310058594, 'cd_precisions': 0.9318210782591971, 'cd_recalls': 0.9180841609464321, 'cd_f1scores': 0.9247004863361024, 'learning_rate': 9.765625000000002e-07}
+updata the model
+SET model mode to train!
+EPOCH 81 TRAIN METRICS{'cd_losses': 0.09347280901488211, 'cd_corrects': 98.58833703605963, 'cd_precisions': 0.9387654206044053, 'cd_recalls': 0.9177290430963293, 'cd_f1scores': 0.9279218237292328, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 82 TRAIN METRICS{'cd_losses': 0.0930759222324875, 'cd_corrects': 98.58924163159706, 'cd_precisions': 0.9391495420016688, 'cd_recalls': 0.919165601910102, 'cd_f1scores': 0.9288657522368092, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 83 TRAIN METRICS{'cd_losses': 0.09342904039602772, 'cd_corrects': 98.58826739267765, 'cd_precisions': 0.9386277820342033, 'cd_recalls': 0.9184032224053515, 'cd_f1scores': 0.9282101155409426, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 84 TRAIN METRICS{'cd_losses': 0.09264747021000663, 'cd_corrects': 98.59350764322625, 'cd_precisions': 0.9390456407832506, 'cd_recalls': 0.9191636319251733, 'cd_f1scores': 0.928820743365905, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 85 TRAIN METRICS{'cd_losses': 0.09267772632099384, 'cd_corrects': 98.58392377894559, 'cd_precisions': 0.9397361865316294, 'cd_recalls': 0.9194194694836344, 'cd_f1scores': 0.9292628494060433, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 86 TRAIN METRICS{'cd_losses': 0.09297310862449004, 'cd_corrects': 98.58781427616695, 'cd_precisions': 0.9384987274840139, 'cd_recalls': 0.9183706818069151, 'cd_f1scores': 0.9281277865320497, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 87 TRAIN METRICS{'cd_losses': 0.09338985769216605, 'cd_corrects': 98.58537598022168, 'cd_precisions': 0.9383037523358432, 'cd_recalls': 0.9186799182572577, 'cd_f1scores': 0.9282086909974965, 'learning_rate': 9.765625000000004e-07}
+SET model mode to train!
+EPOCH 88 TRAIN METRICS{'cd_losses': 0.09226922592152652, 'cd_corrects': 98.58679842319992, 'cd_precisions': 0.9393804818669111, 'cd_recalls': 0.919683335328761, 'cd_f1scores': 0.9292378015114352, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 89 TRAIN METRICS{'cd_losses': 0.09288812622570877, 'cd_corrects': 98.59245926013095, 'cd_precisions': 0.9387289343529786, 'cd_recalls': 0.9182471614483605, 'cd_f1scores': 0.9281831876223489, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 90 TRAIN METRICS{'cd_losses': 0.09275962241503188, 'cd_corrects': 98.59151509968783, 'cd_precisions': 0.939452193056277, 'cd_recalls': 0.918623779105972, 'cd_f1scores': 0.9287276756592466, 'learning_rate': 4.882812500000002e-07}
+EPOCH 90 VALIDATION METRICS{'cd_losses': 0.09674544784426689, 'cd_corrects': 98.55191464233398, 'cd_precisions': 0.9358552853622498, 'cd_recalls': 0.9123417067946484, 'cd_f1scores': 0.9237215132093647, 'learning_rate': 4.882812500000001e-07}
+updata the model
+SET model mode to train!
+EPOCH 91 TRAIN METRICS{'cd_losses': 0.09285620443201323, 'cd_corrects': 98.58622027243928, 'cd_precisions': 0.9389163970334564, 'cd_recalls': 0.9186051456860426, 'cd_f1scores': 0.9284584539419919, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 92 TRAIN METRICS{'cd_losses': 0.09190803905613988, 'cd_corrects': 98.5895986122479, 'cd_precisions': 0.9394563419042655, 'cd_recalls': 0.9203666833015517, 'cd_f1scores': 0.9296598617401106, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 93 TRAIN METRICS{'cd_losses': 0.09156259560702945, 'cd_corrects': 98.59182166595825, 'cd_precisions': 0.9401122516937861, 'cd_recalls': 0.9202570333676986, 'cd_f1scores': 0.9299059752095012, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 94 TRAIN METRICS{'cd_losses': 0.092434728089318, 'cd_corrects': 98.58505235301504, 'cd_precisions': 0.938965172923635, 'cd_recalls': 0.9189355359091411, 'cd_f1scores': 0.9286443760111098, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 95 TRAIN METRICS{'cd_losses': 0.09362658044452862, 'cd_corrects': 98.58211789943046, 'cd_precisions': 0.9382024094081919, 'cd_recalls': 0.9179310090186563, 'cd_f1scores': 0.927771097239777, 'learning_rate': 4.882812500000002e-07}
+SET model mode to train!
+EPOCH 96 TRAIN METRICS{'cd_losses': 0.09272675975996385, 'cd_corrects': 98.5933230283449, 'cd_precisions': 0.9390583603717162, 'cd_recalls': 0.9191383503465003, 'cd_f1scores': 0.9288236002569821, 'learning_rate': 2.441406250000001e-07}
+SET model mode to train!
+EPOCH 97 TRAIN METRICS{'cd_losses': 0.09316134282189022, 'cd_corrects': 98.5890309999315, 'cd_precisions': 0.9390415554003487, 'cd_recalls': 0.9183468038719996, 'cd_f1scores': 0.928400210739491, 'learning_rate': 2.441406250000001e-07}
+SET model mode to train!
+EPOCH 98 TRAIN METRICS{'cd_losses': 0.0917361831332711, 'cd_corrects': 98.59426202934137, 'cd_precisions': 0.9394365372700654, 'cd_recalls': 0.9195941043422051, 'cd_f1scores': 0.9292499647096405, 'learning_rate': 2.441406250000001e-07}
+SET model mode to train!
+EPOCH 99 TRAIN METRICS{'cd_losses': 0.09311572238088225, 'cd_corrects': 98.58788300475342, 'cd_precisions': 0.9377099696353681, 'cd_recalls': 0.918468479684359, 'cd_f1scores': 0.9278062290882519, 'learning_rate': 2.441406250000001e-07}
+SET model mode to train!
+EPOCH 100 TRAIN METRICS{'cd_losses': 0.09283535814971375, 'cd_corrects': 98.58968815243216, 'cd_precisions': 0.9390341739376883, 'cd_recalls': 0.9189700562886173, 'cd_f1scores': 0.9287264058553121, 'learning_rate': 2.441406250000001e-07}
+EPOCH 100 VALIDATION METRICS{'cd_losses': 0.09537643207609653, 'cd_corrects': 98.56618463134765, 'cd_precisions': 0.932988001924317, 'cd_recalls': 0.9174655761658139, 'cd_f1scores': 0.9249723281844153, 'learning_rate': 2.4414062500000006e-07}
+updata the model
