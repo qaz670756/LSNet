@@ -24,7 +24,7 @@ python eval.py
 
 ## Citation
 
-If you feel it useful, please cite our work:
+If you feel it useful, please star and cite our work:
 ```
 @misc{liu2022lsnet,
     title={LSNet: Extremely Light-Weight Siamese Network For Change Detection in Remote Sensing Image},
