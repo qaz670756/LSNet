@@ -21,6 +21,7 @@ All the pre-trained models have been upload in ./weights, you can modify "model 
 ```
 python eval.py
 ```
+Noted that the source code has been reconstructed and the results are a little different from the paper. But still keeping efficient. 
 
 ## Citation
 
