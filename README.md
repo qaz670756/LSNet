@@ -27,13 +27,13 @@ Noted that the source code has been reconstructed and the results are a little d
 
 If you feel it useful, please star and cite our work:
 ```
-@misc{liu2022lsnet,
-    title={LSNet: Extremely Light-Weight Siamese Network For Change Detection in Remote Sensing Image},
-    author={Biyuan Liu and Huaixin Chen and Zhixi Wang},
-    year={2022},
-    eprint={2201.09156},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@inproceedings{liu2022lsnet,
+  title={LSNET: Extremely Light-Weight Siamese Network for Change Detection of Remote Sensing Image},
+  author={Liu, Biyuan and Chen, Huaixin and Wang, Zhixi and Xie, Wenqiang and Shuai, LingYu},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={2358--2361},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
