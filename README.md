@@ -1,5 +1,6 @@
 # LSNet
-Official implementation of "[LSNet: Extremely lightweight Siamese Network for Change Detection in Remote Sensing Images](https://arxiv.org/abs/2201.09156)".
+Official implementation of "LSNet: Extremely lightweight Siamese Network for Change Detection in Remote Sensing Images".
+[arxiv](https://arxiv.org/abs/2201.09156)|[IGARSS2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9884446)
 ## Requirements
 We use python/pytorch/torchvision versions as follow:  
 - python 3.7
